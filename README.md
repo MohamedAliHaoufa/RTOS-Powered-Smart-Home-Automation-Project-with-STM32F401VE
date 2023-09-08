@@ -18,4 +18,4 @@ Welcome to the RTOS-Powered Smart Home Automation System repository! This projec
 
 - **User-Friendly Interface:** Access and control your smart home from anywhere via user-friendly mobile apps or web platforms.
 
-you'll Explore the future of smart living with our RTOS-Powered Smart Home Automation System. Elevate your home's comfort, energy efficiency, and security.
+Explore the future of smart living with my RTOS-Powered Smart Home Automation System. Elevate your home's comfort, energy efficiency, and security.
