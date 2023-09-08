@@ -1,1 +1,2 @@
-# Smart-Home-Automation-Project-Powered-by-STM32F401VE
+# 
+RTOS-Powered-Smart-Home-Automation-Project-with-STM32F401VE
