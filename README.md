@@ -1,4 +1,4 @@
-# RTOS-Powered Smart Home Automation System with STM32F401VE
+# RTOS-Powered Smart Home Automation System
 
 Welcome to the RTOS-Powered Smart Home Automation System repository! This project showcases a state-of-the-art smart home automation system, driven by the STM32F401VE microcontroller and a robust Real-Time Operating System (RTOS).
 
